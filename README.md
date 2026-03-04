@@ -28,7 +28,6 @@ The objective of this project was to:
 ## 📂 Dataset
 
 * Source: Kaggle – [London Bike Sharing Dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data)
-* Time Period: 2016-01-02 to 2016-07-15
 * Granularity: Daily ride counts with weather metrics
 * Key Features:
 
