@@ -129,19 +129,6 @@ This enables layered analysis without cluttering the main dashboard.
 
 ---
 
-## 🧠 What This Project Demonstrates
-
-✔ Data cleaning & transformation using Python
-✔ Feature engineering & categorical mapping
-✔ Business-oriented thinking
-✔ Time-series trend analysis
-✔ Moving average implementation in Tableau
-✔ Interactive dashboard design
-✔ KPI-focused storytelling
-✔ End-to-end analytics workflow
-
----
-
 ## 📸 Dashboard Preview
 
 *(Insert dashboard screenshot here)*
