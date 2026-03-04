@@ -131,9 +131,7 @@ This enables layered analysis without cluttering the main dashboard.
 
 ## 📸 Dashboard Preview
 
-*(Insert dashboard screenshot here)*
-
-<img width="1360" height="751" alt="Screenshot 2026-03-04 170915" src="https://github.com/user-attachments/assets/b1e38d43-6e73-4bb0-9e61-922db1daf913" />
+<img width="1358" height="752" alt="image" src="https://github.com/user-attachments/assets/70f7fe9b-61ea-4608-be70-799606044b83" />
 
 
 
