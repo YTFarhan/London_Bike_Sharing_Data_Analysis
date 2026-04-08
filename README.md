@@ -80,6 +80,8 @@ This stage ensured clean, structured, and business-friendly data for visualizati
 
 ## 📊 Tableau Dashboard Features
 
+- <a href="https://public.tableau.com/views/LondonBikeShareDataAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Live View Dashboard</a>
+
 ### 1️⃣ Interactive Moving Average Line Chart
 
 * Displays total bike rides over time
